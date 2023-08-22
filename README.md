@@ -1,11 +1,16 @@
 # 💫About Me :
 Hi My name is Rahul Kishne
+
 Software Developer
+
 I love programming, reading, writing and speaking. As a software engineer, I enjoy using my obsessive attention to detail.
 
 🌍  I'm based in Dewas
+
 ✉️  You can contact me at kishnerahul123@gmail.com
+
 🧠  I'm learning Backend (Java->SpringBoot)
+
 🤝  I'm open to collaborating on Full Stack Projects
 
 ## 🌐Socials
