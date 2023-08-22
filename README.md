@@ -1,47 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Kishne
-====================================================================================================================================
-
+# 💫About Me :
+Hi My name is Rahul Kishne
 Software Developer
-------------------
-
 I love programming, reading, writing and speaking. As a software engineer, I enjoy using my obsessive attention to detail.
 
-* 🌍  I'm based in Dewas
-* ✉️  You can contact me at [kishnerahul123@gmail.com](mailto:kishnerahul123@gmail.com)
-* 🧠  I'm learning Backend (Java->SpringBoot)
-* 🤝  I'm open to collaborating on Full Stack Projects
+🌍  I'm based in Dewas
+✉️  You can contact me at kishnerahul123@gmail.com
+🧠  I'm learning Backend (Java->SpringBoot)
+🤝  I'm open to collaborating on Full Stack Projects
 
-<a href="https://www.github.com/RKishne" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RKishne?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/R.kishne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkishne) 
 
-### Skills
+# 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=RKishne&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RKishne&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RKishne&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=RKishne&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON
-</p>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-### Socials
+---
+[![](https://visitcount.itsvg.in/api?id=RKishne&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://www.github.com/RKishne" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/R.kishne" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rahulkishne" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/RKishne"><img src="https://github-readme-stats.vercel.app/api?username=RKishne&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RKishne's GitHub stats" /></a>
-
-<a href="http://www.github.com/RKishne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RKishne&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/RKishne"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RKishne&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/RKishne" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKishne&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/RKishne/Student_Result_management_Portal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RKishne&repo=Student_Result_management_Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RKishne/Airline_Reservation_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RKishne&repo=Airline_Reservation_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/RKishne/E-learning-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RKishne&repo=E-learning-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
