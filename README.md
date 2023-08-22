@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahul Kishne and I'm a .Madhya Pradesh, from Dewas</h2>
+<h2 align="left">Hi 👋! My name is Rahul Kishne and I'm a Developer, from Dewas(M.P.).</h2>
 
 ###
 
