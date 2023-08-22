@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Rahul Kishne and I'm a Developer, from Dewas(M.P.).</h2>
+<h2 align="left">Hi 👋! My name is Rahul Kishne and I'm a Developer, from Dewas (M.P.).</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
